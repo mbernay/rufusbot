@@ -1,0 +1,23 @@
+Hello! To log on to Ohio University's Wi-Fi:
+
+1.  Select the **OHIO-WIFI** network from your device's Wi-Fi settings.
+2.  Enter your **Ohio ID** (e.g., ab123456) and **password** when prompted.
+3.  If asked, accept the security certificate.
+
+You should then be connected!
+
+ ---
+
+Hello there! If you need to reset your Ohio University password, you can easily do so through the account management portal.
+
+1.  Go to [**account.ohio.edu**](https://account.ohio.edu).
+2.  Click on the "**Forgot Password**" link.
+3.  Follow the prompts to verify your identity and set a new password.
+
+If you have any trouble, feel free to reach out to the OIT Service Desk!
+
+ ---
+
+Hello there!
+
+Your Ohio University email address typically follows the format `OhioID@ohio.edu`. For students, your primary email address is `OhioID@cats.ohio.edu`.

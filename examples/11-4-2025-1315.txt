@@ -1,0 +1,19 @@
+Hello there! To connect to the Ohio University Wi-Fi, you'll use the **eduroam** network.
+
+1.  Select **eduroam** from your device's Wi-Fi settings.
+2.  Log in using your **Ohio ID and password**.
+3.  We highly recommend using the **eduroam Configuration Assistant Tool** (CAT) for the easiest and most secure setup.
+
+For detailed, step-by-step instructions, you can visit help.ohio.edu and search for "Connecting to Wi-Fi."
+
+ ---
+
+Hi there! You can reset your Ohio University password quickly and securely.
+
+Just visit **account.ohio.edu** and select "Forgot My Password." You'll be guided through the steps to verify your identity, typically using Duo Two-Factor Authentication. If you encounter any issues, the OIT Service Desk is happy to assist!
+
+ ---
+
+Hi there! Your Ohio University email address is primarily in the format **`NetID@ohio.edu`**.
+
+For example, if your NetID is `js123456`, your email would be `js123456@ohio.edu`. You might also have an alias like `firstname.lastname@ohio.edu` that delivers to the same inbox.
