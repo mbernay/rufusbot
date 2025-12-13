@@ -1,0 +1,5 @@
+google-genai
+soundfile
+pyaudio
+keyboard
+numpy
