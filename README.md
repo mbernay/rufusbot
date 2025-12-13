@@ -18,6 +18,11 @@ This proposed system should reduce wait times and improve user satisfaction.
 - The responses are printed to the console.
 - Accuracy is ≥ 50%
 
+## RufusAI Setup
+- Clone the repository with `git clone https://github.com/mbernay/rufusbot.git`, or by downloading the ZIP file and extracting it.
+- Install dependencies by utilizing the [Makefile](https://github.com/mbernay/rufusbot/blob/0ae448fb3a1f8a010eaae28ac0fad596adfb7076/Makefile) using `make install-dependencies` or with `pip install -r requirements.txt`
+- Run using `make run` or with `python rufusai.py`
+
 ## API Key Setup
 In Powershell:
 ```
